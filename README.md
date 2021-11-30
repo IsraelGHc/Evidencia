@@ -9,6 +9,7 @@ El programa tendra los siguientes aspectos:
 
 <li>Solo se podra tener acceso si es el usuario tiene un ID y contraseña.
 </ul>
+
 ## Instalación y configuración
 
 ### JDK y NetBeans
